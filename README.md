@@ -5,6 +5,7 @@ HKSTP Ideation Programme (Cohort 26-22) materials, milestone preparation guides,
 ## 核心文档索引
 
 - [**HKSTP Milestone 2 备战与交付全指南**](HKSTP_Milestone_2_Guide.md)：覆盖关键时间线、4+1 交付物规范、市场验证官方方法论、甘特图行动规划及访谈模板。
+- [**HKSTP 大学生项目合作与人才招募实操指南**](HKSTP_University_Talent_Programme_Guide.md)：针对销售/BD 场景的 Industry Research Projects 产学研申报指南（零薪酬成本引入港大/科大/中大学生团队跑市场调研与客户发掘），含中英文申报模板、招募周期与政府全额补贴实习计划 (STEM)。
 
 ## 官方材料目录 (`docs/`)
 
